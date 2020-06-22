@@ -3,6 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.DS_STORE
+final_images/
+june_14_images/
+new_final_images/
+*.pickle
+test_images/
+test_images_dense/
+
+
 # C extensions
 *.so
 
